@@ -24,4 +24,3 @@ else:
 
 print("Budi pulang kerumah")
 print("Menyampaikan hasilnya kepada ibu")
-
